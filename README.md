@@ -5,3 +5,9 @@
 - Base64
 - Hex
 - Rot13
+
+## Decode
+
+- Base64
+- Hex
+- Rot13
